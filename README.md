@@ -118,4 +118,3 @@ Educational use only. For security research and learning purposes.
 
 ---
 
-**Made with ❤️ for Security Education**
