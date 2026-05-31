@@ -18,27 +18,6 @@ A modern, interactive web application demonstrating Cross-Site Request Forgery (
 - **Styling**: Custom CSS with animations and gradients
 - **Security**: CSRF Token Validation
 
-## Installation 📦
-
-1. **Clone or extract the project**
-   ```bash
-   cd CSRF
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install flask
-   ```
-
-3. **Run the application**
-   ```bash
-   python app.py
-   ```
-
-4. **Open in browser**
-   ```
-   http://localhost:5000
-   ```
 
 ## How It Works 🔐
 
